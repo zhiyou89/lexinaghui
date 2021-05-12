@@ -17,7 +17,7 @@
     "bootstrap": "^3.4.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
-    "swiper": "^5.0.3",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.7"
   },
